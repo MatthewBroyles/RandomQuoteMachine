@@ -1,3 +1,3 @@
 # RandomQuoteMachine
 # By: Matthew Broyles
-# http://matthewbroyles.github.io/RandomQuoteMachine
+# https://matthewbroyles.github.io/RandomQuoteMachine/
